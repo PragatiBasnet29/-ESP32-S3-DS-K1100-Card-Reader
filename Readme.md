@@ -1,6 +1,6 @@
 ### 📋 Copy-Paste Ready `README.md`
 
-```markdown
+
 # ESP32-S3 DS-K1100 Card Reader Controller
 
 A high-performance IoT access control interface built with **ESP-IDF** and **LVGL**. This project integrates an **ESP32-S3** with a **Hikvision DS-K1100** series card reader to provide a secure, touch-capable (optional) graphical interface for access management.
@@ -72,9 +72,6 @@ idf.py -p [YOUR_PORT] flash monitor
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
-```
-
----
 
 ### 💡 Pro-Tips for your GitHub:
 
@@ -86,3 +83,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 **Would you like me to generate the `main/CMakeLists.txt` file for you to ensure the LVGL library is linked correctly?**
 
 ```
+
