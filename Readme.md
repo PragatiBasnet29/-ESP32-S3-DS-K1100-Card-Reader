@@ -80,7 +80,6 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
     `![Project Demo](https://github.com/PragatiBasnet29/-ESP32-S3-DS-K1100-Card-Reader/raw/main/demo.jpg)`
 3.  **The build error:** If you still get an error during `idf.py build`, it is almost certainly because the **LVGL component** isn't being found. 
 
-**Would you like me to generate the `main/CMakeLists.txt` file for you to ensure the LVGL library is linked correctly?**
 
-```
+
 
