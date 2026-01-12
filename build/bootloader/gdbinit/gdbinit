@@ -1,0 +1,2 @@
+source C:/Users/USER/Desktop/esp-idf/examples/scanner/build/bootloader/gdbinit/symbols
+source C:/Users/USER/Desktop/esp-idf/examples/scanner/build/bootloader/gdbinit/connect
