@@ -1,7 +1,7 @@
 {
     "version":            "1.3",
     "project_name":       "scanner",
-    "project_version":    "v6.1-dev-1532-gb6e2de03f0-dirty",
+    "project_version":    "6ccd3d8-dirty",
     "project_path":       "C:/Users/USER/Desktop/esp-idf/examples/scanner",
     "idf_path":           "C:/Users/USER/Desktop/esp-idf",
     "build_dir":          "C:/Users/USER/Desktop/esp-idf/examples/scanner/build",
@@ -1670,12 +1670,12 @@
             "dir": "C:/Users/USER/Desktop/esp-idf/examples/scanner/components/lvgl_esp32_drivers",
             "type": "LIBRARY",
             "lib": "__idf_lvgl_esp32_drivers",
-            "reqs": [ "lvgl", "esp_driver_gpio", "esp_driver_spi", "esp_driver_ledc" ],
+            "reqs": [ "lvgl", "driver", "esp_lcd" ],
             "priv_reqs": [],
             "managed_reqs": [],
             "managed_priv_reqs": [],
             "file": "C:/Users/USER/Desktop/esp-idf/examples/scanner/build/esp-idf/lvgl_esp32_drivers/liblvgl_esp32_drivers.a",
-            "sources": [ "C:/Users/USER/Desktop/esp-idf/examples/scanner/components/lvgl_esp32_drivers/lvgl_helpers.c", "C:/Users/USER/Desktop/esp-idf/examples/scanner/components/lvgl_esp32_drivers/lvgl_tft/disp_driver.c", "C:/Users/USER/Desktop/esp-idf/examples/scanner/components/lvgl_esp32_drivers/lvgl_tft/esp_lcd_backlight.c", "C:/Users/USER/Desktop/esp-idf/examples/scanner/components/lvgl_esp32_drivers/lvgl_tft/ili9341.c", "C:/Users/USER/Desktop/esp-idf/examples/scanner/components/lvgl_esp32_drivers/lvgl_tft/disp_spi.c" ],
+            "sources": [ "C:/Users/USER/Desktop/esp-idf/examples/scanner/components/lvgl_esp32_drivers/lvgl_tft/disp_driver.c", "C:/Users/USER/Desktop/esp-idf/examples/scanner/components/lvgl_esp32_drivers/lvgl_tft/esp_lcd_backlight.c", "C:/Users/USER/Desktop/esp-idf/examples/scanner/components/lvgl_esp32_drivers/lvgl_tft/ili9341.c", "C:/Users/USER/Desktop/esp-idf/examples/scanner/components/lvgl_esp32_drivers/lvgl_tft/disp_spi.c" ],
             "include_dirs": [ ".", "lvgl_tft" ]
         },
         "lwip": {
@@ -3787,7 +3787,7 @@
             "dir": "C:/Users/USER/Desktop/esp-idf/examples/scanner/components/lvgl_esp32_drivers",
             "source": "project_components",
             "lib": "__idf_lvgl_esp32_drivers",
-            "reqs": [ "lvgl", "esp_driver_gpio", "esp_driver_spi", "esp_driver_ledc" ],
+            "reqs": [ "lvgl", "driver", "esp_lcd" ],
             "priv_reqs": [],
             "managed_reqs": [],
             "managed_priv_reqs": [],

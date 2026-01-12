@@ -196,7 +196,7 @@ C:/Users/USER/Desktop/esp-idf/examples/scanner/build/esp-idf/spiffs/libspiffs.a
 C:/Users/USER/Desktop/esp-idf/examples/scanner/build/esp-idf/lvgl/liblvgl.a
 C:/Users/USER/Desktop/esp-idf/examples/scanner/build/esp-idf/lvgl_esp32_drivers/liblvgl_esp32_drivers.a
 C:/Users/USER/Desktop/esp-idf/examples/scanner/build/esp-idf/lvgl/liblvgl.a
-C:/Users/USER/Desktop/esp-idf/examples/scanner/build/esp-idf/esp_driver_ledc/libesp_driver_ledc.a
-C:/Users/USER/Desktop/esp-idf/examples/scanner/build/esp-idf/main/libmain.a
 C:/Users/USER/Desktop/esp-idf/examples/scanner/build/esp-idf/driver/libdriver.a
+C:/Users/USER/Desktop/esp-idf/examples/scanner/build/esp-idf/esp_lcd/libesp_lcd.a
+C:/Users/USER/Desktop/esp-idf/examples/scanner/build/esp-idf/main/libmain.a
 C:/Users/USER/Desktop/esp-idf/examples/scanner/build/esp-idf/lvgl_esp32_drivers/liblvgl_esp32_drivers.a
